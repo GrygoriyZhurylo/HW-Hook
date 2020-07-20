@@ -28,7 +28,9 @@ function App() {
         <div className="App">
             <h3>
                 <button onClick={add} className="btn btn-outline-primary">Add +1</button>
-                {count}
+                <span className="mx-6">
+                 {count}
+                </span>
                 <button onClick={minus} className="btn btn-outline-primary">-1 Delete</button>
                 <br/>
                 <button onClick={add10} className="btn btn-outline-primary">Add +10</button>
