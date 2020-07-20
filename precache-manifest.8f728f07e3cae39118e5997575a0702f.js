@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40c1d3d6f4163ef6933319e20e5f1520",
+    "revision": "e7adbdeea6ae273249a4b8bada69dc8d",
     "url": "/HW-Hook/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HW-Hook/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "68be4fa3b780d0532a00",
+    "revision": "3c6e8db791eaf336af4a",
     "url": "/HW-Hook/static/css/main.d9b49062.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HW-Hook/static/js/2.5a307afe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "68be4fa3b780d0532a00",
-    "url": "/HW-Hook/static/js/main.f529b4c8.chunk.js"
+    "revision": "3c6e8db791eaf336af4a",
+    "url": "/HW-Hook/static/js/main.557bdcb9.chunk.js"
   },
   {
     "revision": "2ecb6ebfb912bb203070",

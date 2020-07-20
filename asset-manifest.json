@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/HW-Hook/static/css/main.d9b49062.chunk.css",
-    "main.js": "/HW-Hook/static/js/main.f529b4c8.chunk.js",
-    "main.js.map": "/HW-Hook/static/js/main.f529b4c8.chunk.js.map",
+    "main.js": "/HW-Hook/static/js/main.557bdcb9.chunk.js",
+    "main.js.map": "/HW-Hook/static/js/main.557bdcb9.chunk.js.map",
     "runtime-main.js": "/HW-Hook/static/js/runtime-main.986529de.js",
     "runtime-main.js.map": "/HW-Hook/static/js/runtime-main.986529de.js.map",
     "static/css/2.af3c1da9.chunk.css": "/HW-Hook/static/css/2.af3c1da9.chunk.css",
     "static/js/2.5a307afe.chunk.js": "/HW-Hook/static/js/2.5a307afe.chunk.js",
     "static/js/2.5a307afe.chunk.js.map": "/HW-Hook/static/js/2.5a307afe.chunk.js.map",
     "index.html": "/HW-Hook/index.html",
-    "precache-manifest.424668e0e702bbecf240675983da57d4.js": "/HW-Hook/precache-manifest.424668e0e702bbecf240675983da57d4.js",
+    "precache-manifest.8f728f07e3cae39118e5997575a0702f.js": "/HW-Hook/precache-manifest.8f728f07e3cae39118e5997575a0702f.js",
     "service-worker.js": "/HW-Hook/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/HW-Hook/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.d9b49062.chunk.css.map": "/HW-Hook/static/css/main.d9b49062.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.5a307afe.chunk.js",
     "static/css/main.d9b49062.chunk.css",
-    "static/js/main.f529b4c8.chunk.js"
+    "static/js/main.557bdcb9.chunk.js"
   ]
 }
