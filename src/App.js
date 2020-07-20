@@ -29,7 +29,7 @@ function App() {
             <h3>
                 <button onClick={add} className="btn btn-outline-primary">Add +1</button>
                 {count}
-                <button onClick={minus} className="btn btn-outline-primary">Delete -1</button>
+                <button onClick={minus} className="btn btn-outline-primary">-1 Delete</button>
                 <br/>
                 <button onClick={add10} className="btn btn-outline-primary">Add +10</button>
                 {count10}
