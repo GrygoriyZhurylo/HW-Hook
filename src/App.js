@@ -28,17 +28,21 @@ function App() {
         <div className="App">
             <h3>
                 <button onClick={add} className="btn btn-outline-primary">Add +1</button>
-                <span className="mx-6">
+                <span className="mx-3">
                  {count}
                 </span>
                 <button onClick={minus} className="btn btn-outline-primary">-1 Delete</button>
                 <br/>
                 <button onClick={add10} className="btn btn-outline-primary">Add +10</button>
-                {count10}
+                <span className="mx-3">
+                       {count10}
+                </span>
                 <button onClick={minus10} className="btn btn-outline-primary">Delete -10</button>
                 <br/>
                 <button onClick={ran} className="btn btn-outline-primary">Random from 1 to 10</button>
-                {rand}
+                <span className="mx-3">
+                   {rand}
+                </span>
                 <button onClick={minusrand} className="btn btn-outline-primary">Random from 1 to 10</button>
             </h3>
         </div>
